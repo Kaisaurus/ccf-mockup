@@ -1,0 +1,56 @@
+.logo_ccf {
+  width: auto;
+  height: 100px;
+  margin-bottom: 5px;
+}
+
+.hero.is-info {
+  background-image: url('../img/zugr-108-unsplash.jpg');
+  background-size: contain;
+  box-shadow: inset 0 0 0 2000px #98c0f877;
+}
+
+.hero.is-primary {
+  background-color: #8d31fe;
+  background-color: #8c7aff;
+  /* background-color: #99999a; */
+  /* background-color: #58595b; */
+  /* background-color: #98c0f8; */
+}
+
+.hero.is-info .navbar {
+  background-color: #fff;
+}
+
+.hero-body .title {
+  /* color: #000 !important; */
+  text-shadow: 2px 2px 2px 2px #00000022;
+}
+
+a {
+  /* color: #8d31fe; */
+  color: #8c7aff;
+  /* color: #99999a;
+  color: #58595b;
+  color: #98c0f8; */
+}
+
+.hero.is-info .navbar-link.is-active,
+.hero.is-info .navbar-link:hover,
+.hero.is-info a.navbar-item.is-active,
+.hero.is-info a.navbar-item:hover {
+  /* background-color: #8d31fe; */
+  background-color: #8c7aff;
+  /* background-color: #99999a; */
+  /* background-color: #58595b; */
+  /* background-color: #98c0f8; */
+  color: rgb(255, 255, 255);
+}
+/*
+
+background-color:#8d31fe;
+background-color:#8c7aff;
+background-color:#99999a;
+background-color:#58595b;
+background-color:#98c0f8;
+*/

@@ -1,0 +1,30 @@
+.logo_ccf_large {
+  width: 280px;
+  height: auto;
+  margin-bottom: 50px;
+}
+
+.hero.is-info {
+  background-color: #030343;
+}
+
+.hero.is-primary {
+  background-color: #3169fe;
+}
+
+.hero.is-info .navbar {
+  background-color: transparent;
+}
+
+a {
+  color: #3169fe;
+}
+
+/*
+
+background-color:#030343;
+background-color:#3d3e6c;
+background-color:#983def;
+background-color:#0c478f;
+background-color:#3169fe;
+*/
